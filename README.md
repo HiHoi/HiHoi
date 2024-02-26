@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 Hello! I'm Hosung Lim. Welcome to my github!
 
-## iOS Engineer
+## Study
+
+#### 42Seoul Member(2022.10 ~)
+
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghtjd5087@gmail.com)](mailto:ghtjd5087@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/hoslim/)](https://www.linkedin.com/in/hoslim/)
