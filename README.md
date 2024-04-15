@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 #### iOS
 
 - 24Hane(2024.03 ~ 현재) : iOS 개발
+- Peer(2024.03 ~ 현재): iOS 개발
 
 #### Flutter
 
