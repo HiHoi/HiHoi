@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 #### Flutter
 
-- Timeless(2023.12 ~ 현재) : 모바일 개발
+- Timeless(2023.12 ~ 현재) : Flutter 개발
 
 
 
