@@ -22,21 +22,36 @@ Here are some ideas to get you started:
 ## Study
 
 #### 42Seoul Member(2022.10 ~)
+#### Swift Coding Club(2023.10 ~ 12)
 
 ## 프로젝트
 
 #### FrontEnd
 
-- 피어 웹사이트(2023.10 ~ 2024.02) : 프론트 엔드 리더 / 벨루가팀장
+- 피어 웹사이트(2023.10 ~ 2024.02) : 프론트 엔드 리더
+다양한 형태의 스터디와 프로젝트를 지원하는 서비스
 
 #### iOS
 
-- 24Hane(2024.03 ~ 현재) : iOS 개발
-- Peer(2024.03 ~ 현재): iOS 개발
+- 24Hane(2024.03 ~ 현재) : Swift, SwiftUI, Tuist, Fastlane
+42서울의 공식 출석 시간 관리 서비스.
+
+- Peer(2024.03 ~ 현재): Swift, SwiftUI, MVI
+스터디 및 프로젝트 등 다양한 모임을 지원하는 서비스
 
 #### Flutter
 
-- Timeless(2023.12 ~ 현재) : Flutter 개발
+- Timeless(2023.12 ~ 현재) : Dart, Flutter, Provider, Fastlane
+대화 기록을 이용하여 대상을 재현하는 LLM 기반의 채팅 어플
+
+## 해커톤
+
+- 2023 42서울 코알리숑 해커톤: 조별 2위
+YOLO 모델을 이용한 좌석 이용도 조회 서비스
+
+- 2024 Let Us: HACK: 우수상
+CreateML과 CoreML를 이용한 실시간 감정 측정 어플
+
 
 
 
