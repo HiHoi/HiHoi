@@ -32,17 +32,17 @@ Here are some ideas to get you started:
   
 다양한 형태의 스터디와 프로젝트를 지원하는 서비스
 
-* 홈페이지: ![링크]()
-* Github: ![링크]()
-* 개발백서: ![링크]()
+* 홈페이지: [링크]()
+* Github: [링크]()
+* 개발백서: [링크]()
 
 #### 🍎 iOS
 
 - 24Hane(2024.03 ~ 현재) : Git, Swift, SwiftUI, Tuist, Fastlane, XCTest
 42서울의 공식 출석 시간 관리 어플리케이션
 
-* 다운로드 링크: ![링크](https://github.com/innovationacademy-kr/24hane-iOS)
-* Github: ![링크](https://github.com/innovationacademy-kr/24hane-iOS)
+* 다운로드 링크: [링크](https://github.com/innovationacademy-kr/24hane-iOS)
+* Github: [링크](https://github.com/innovationacademy-kr/24hane-iOS)
 
 
 #### ➡️ Flutter
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - Timeless(2023.12 ~ 현재) : Git, Dart, Flutter, Provider, Firebase, Fastlane
 복합 비애 장애를 겪고 있는 사별 경험자들을 위한 대화 기록을 이용하여 대상을 재현하는 LLM 기반의 채팅 어플
 
-* 다운로드 링크: ![링크]()
+* 다운로드 링크: [링크]()
 
 ## 해커톤
 
@@ -71,9 +71,6 @@ CreateML과 CoreML를 이용한 실시간 감정 측정 어플
   <img src="https://img.shields.io/badge/c-3776AB?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-</br>
-  
-<br>
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/swift-FD755C?style=for-the-badge&logo=swiftui&logoColor=white"/>
 </br>
@@ -81,12 +78,10 @@ CreateML과 CoreML를 이용한 실시간 감정 측정 어플
 <br>
   <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-  
-</br>
-<br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </br>
+
 </div>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghtjd5087@gmail.com)](mailto:ghtjd5087@gmail.com)
