@@ -14,54 +14,58 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hoslim @HiHoi
+# 자기소개
 
-안녕하세요 저는 모바일 개발에 큰 관심이 있는 임호성입니다.
-특히 iOS 공부를 중점으로 하고 있습니다.
+안녕하세요 저는 모바일 개발자 임호성입니다.
 
-## Study
+# Study
 
-#### 42Seoul Member(2022.10 ~)
-#### Swift Coding Club(2023.10 ~ 12)
+### 광운대학교 법학과(2015.03 ~ 2023.10): 졸업
+### 42Seoul Member(2022.10 ~)
+### Swift Coding Club(2023.10 ~ 12)
 
-## 프로젝트
+# 프로젝트
 
-#### FrontEnd
+### 😀 FrontEnd
 
 - 피어 웹사이트(2023.10 ~ 2024.02) : Git, Next.js, Firebase
   
 다양한 형태의 스터디와 프로젝트를 지원하는 서비스
 
-#### iOS
+* 홈페이지: ![링크]()
+* Github: ![링크]()
+* 개발백서: ![링크]()
+
+### 🍎 iOS
+
+
 
 - 24Hane(2024.03 ~ 현재) : Git, Swift, SwiftUI, Tuist, Fastlane, XCTest
+42서울의 공식 출석 시간 관리 어플리케이션
 
-42서울의 공식 출석 시간 관리 서비스.
+* 다운로드 링크: ![링크]()
+* Github: ![링크]()
 
-- Peer(2024.03 ~ 현재): Git, Swift, SwiftUI, MVI
 
-스터디 및 프로젝트 등 다양한 모임을 지원하는 서비스
-
-#### Flutter
+### ➡️ Flutter
 
 - Timeless(2023.12 ~ 현재) : Git, Dart, Flutter, Provider, Firebase, Fastlane
+복합 비애 장애를 겪고 있는 사별 경험자들을 위한 대화 기록을 이용하여 대상을 재현하는 LLM 기반의 채팅 어플
 
-대화 기록을 이용하여 대상을 재현하는 LLM 기반의 채팅 어플
+* 다운로드 링크: ![링크]()
 
-## 해커톤
+# 해커톤
 
 - 2023 42서울 코알리숑 해커톤: 조별 2위
-
 YOLO 모델을 이용한 좌석 이용도 조회 서비스
 
 - 2024 Let Us: HACK: 우수상
-  
 CreateML과 CoreML를 이용한 실시간 감정 측정 어플
 
+# 수상 기록
 
-
+- 2024 미래융합인재발굴 소프트웨어 챌린지: 최우수상(정보통신기획평가원장상)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghtjd5087@gmail.com)](mailto:ghtjd5087@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/hoslim/)](https://www.linkedin.com/in/hoslim/)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HiHoi)](https://github.com/anuraghazra/github-readme-stats)
