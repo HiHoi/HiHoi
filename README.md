@@ -84,7 +84,10 @@ CreateML과 CoreML를 이용한 실시간 감정 측정 어플
 
 </div>
 
+<div align=center>
+  [![<hoslim>'s 42 stats](https://badge.mediaplus.ma/water/hoslim)](https://github.com/oakoudad/badge42)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HiHoi)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghtjd5087@gmail.com)](mailto:ghtjd5087@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/hoslim/)](https://www.linkedin.com/in/hoslim/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HiHoi)](https://github.com/anuraghazra/github-readme-stats)
