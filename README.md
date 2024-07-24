@@ -28,41 +28,35 @@ Here are some ideas to get you started:
 
 #### 😀 FrontEnd
 
-- 피어 웹사이트(2023.10 ~ 2024.02) : Git, Next.js, Firebase
+1. 피어 웹사이트(2023.10 ~ 2024.02) : Git, Next.js, Firebase
   
-다양한 형태의 스터디와 프로젝트를 지원하는 서비스
-
-* 홈페이지: [링크](https://www.peer-study.co.kr)
-* Github: [링크](https://github.com/peer-42seoul/Peer-Frontend)
-* 개발백서: [링크](https://drive.google.com/file/d/1yPsjwCqVCJryq3sThUn4MguhNuakDRFa/view)
+###### 다양한 형태의 스터디와 프로젝트를 지원하는 서비스 (홈페이지: [링크](https://www.peer-study.co.kr), Github: [링크](https://github.com/peer-42seoul/Peer-Frontend), 개발백서: [링크](https://drive.google.com/file/d/1yPsjwCqVCJryq3sThUn4MguhNuakDRFa/view))
 
 #### 🍎 iOS
 
-##### 24Hane(2024.03 ~ 현재) : Git, Swift, SwiftUI, Tuist, Fastlane, XCTest
+1. 24Hane(2024.03 ~ 현재) : Git, Swift, SwiftUI, Tuist, Fastlane, XCTest
   
 ###### 42서울의 공식 출석 시간 관리 어플리케이션(다운로드 링크: [링크](https://github.com/innovationacademy-kr/24hane-iOS) Github: [링크](https://github.com/innovationacademy-kr/24hane-iOS))
 
 #### ➡️ Flutter
 
-- Timeless(2023.12 ~ 현재) : Git, Dart, Flutter, Provider, Firebase, Fastlane
+1. Timeless(2023.12 ~ 현재) : Git, Dart, Flutter, Provider, Firebase, Fastlane
   
-복합 비애 장애를 겪고 있는 사별 경험자들을 위한 대화 기록을 이용하여 대상을 재현하는 LLM 기반의 채팅 어플
-
-* 다운로드 링크: [링크]()
+###### 복합 비애 장애를 겪고 있는 사별 경험자들을 위한 대화 기록을 이용하여 대상을 재현하는 LLM 기반의 채팅 어플(다운로드 링크: [링크]())
 
 ## 해커톤
 
-- 2023 42서울 코알리숑 해커톤: 조별 2위
+1. 2023 42서울 코알리숑 해커톤: 조별 2위
   
-YOLO 모델을 이용한 좌석 이용도 조회 서비스
+###### YOLO 모델을 이용한 좌석 이용도 조회 서비스
 
-- 2024 Let Us 찍먹톤: 우수상
+2. 2024 Let Us 찍먹톤: 우수상
   
-CreateML과 CoreML를 이용한 실시간 감정 측정 어플
+###### CreateML과 CoreML를 이용한 실시간 감정 측정 어플
 
 ## 수상 기록
 
-- 2024 미래융합인재발굴 소프트웨어 챌린지: 최우수상(정보통신기획평가원장상)
+1. 2024 미래융합인재발굴 소프트웨어 챌린지: **최우수상(정보통신기획평가원장상)**
 
 ## 기술 스택
 
