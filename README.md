@@ -75,7 +75,7 @@ CreateML과 CoreML를 이용한 실시간 감정 측정 어플
   <img src="https://img.shields.io/badge/c-3776AB?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/swiftui-FD755C?style=for-the-badge&logo=swiftui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/swiftui-FD755C?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </br>
 
