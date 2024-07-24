@@ -32,13 +32,13 @@ Here are some ideas to get you started:
   
 다양한 형태의 스터디와 프로젝트를 지원하는 서비스
 
-* 홈페이지: [링크]()
-* Github: [링크]()
-* 개발백서: [링크]()
+* 홈페이지: [링크](https://www.peer-study.co.kr)
+* Github: [링크](https://github.com/peer-42seoul/Peer-Frontend)
+* 개발백서: [링크](https://drive.google.com/file/d/1yPsjwCqVCJryq3sThUn4MguhNuakDRFa/view)
 
 #### 🍎 iOS
 
-- 24Hane(2024.03 ~ 현재) : Git, Swift, SwiftUI, Tuist, Fastlane, XCTest
+###### 24Hane(2024.03 ~ 현재) : Git, Swift, SwiftUI, Tuist, Fastlane, XCTest
   
 42서울의 공식 출석 시간 관리 어플리케이션
 
