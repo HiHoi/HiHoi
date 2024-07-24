@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 #### 🍎 iOS
 
 - 24Hane(2024.03 ~ 현재) : Git, Swift, SwiftUI, Tuist, Fastlane, XCTest
+- 
 42서울의 공식 출석 시간 관리 어플리케이션
 
 * 다운로드 링크: [링크](https://github.com/innovationacademy-kr/24hane-iOS)
@@ -48,6 +49,7 @@ Here are some ideas to get you started:
 #### ➡️ Flutter
 
 - Timeless(2023.12 ~ 현재) : Git, Dart, Flutter, Provider, Firebase, Fastlane
+- 
 복합 비애 장애를 겪고 있는 사별 경험자들을 위한 대화 기록을 이용하여 대상을 재현하는 LLM 기반의 채팅 어플
 
 * 다운로드 링크: [링크]()
@@ -55,9 +57,11 @@ Here are some ideas to get you started:
 ## 해커톤
 
 - 2023 42서울 코알리숑 해커톤: 조별 2위
+- 
 YOLO 모델을 이용한 좌석 이용도 조회 서비스
 
 - 2024 Let Us 찍먹톤: 우수상
+- 
 CreateML과 CoreML를 이용한 실시간 감정 측정 어플
 
 ## 수상 기록
