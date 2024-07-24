@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 #### 🍎 iOS
 
-| 24Hane(2024.03 ~ 현재) : Git, Swift, SwiftUI, Tuist, Fastlane, XCTest
+##### 24Hane(2024.03 ~ 현재) : Git, Swift, SwiftUI, Tuist, Fastlane, XCTest
   
 ###### 42서울의 공식 출석 시간 관리 어플리케이션
-###### 다운로드 링크: [링크](https://github.com/innovationacademy-kr/24hane-iOS)
-###### Github: [링크](https://github.com/innovationacademy-kr/24hane-iOS)
+다운로드 링크: [링크](https://github.com/innovationacademy-kr/24hane-iOS)
+Github: [링크](https://github.com/innovationacademy-kr/24hane-iOS)
 
 
 #### ➡️ Flutter
