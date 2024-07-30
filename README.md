@@ -39,6 +39,10 @@ Here are some ideas to get you started:
   
 ###### 42서울의 공식 출석 시간 관리 어플리케이션(다운로드 링크: [링크](https://apps.apple.com/kr/app/24hane/id1659801775) Github: [링크](https://github.com/innovationacademy-kr/24hane-iOS))
 
+2. Emotionalyst(2024.06) : Git, Swift, SwiftUI, CoreML, CreateML
+
+###### 목소리 인식을 통한 감성 측정 어플리케이션
+
 #### ➡️ Flutter
 
 1. Timeless(2023.12 ~ 현재) : Git, Dart, Flutter, Provider, Firebase, Fastlane
